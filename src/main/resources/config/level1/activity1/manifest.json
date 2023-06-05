@@ -1,0 +1,6 @@
+{
+    "activity_id": "1",
+    "description": "description.txt",
+    "java_code": "TestHarness.java",
+    "starter_code" : "starter.txt"
+}

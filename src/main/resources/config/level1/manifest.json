@@ -1,0 +1,8 @@
+{
+    "name": "Level One",
+    "intro_file": "intro.txt",
+    "outro_file": "outro.txt",
+    "activities": [
+        "activity1"
+    ]
+}

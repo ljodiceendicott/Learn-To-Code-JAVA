@@ -1,0 +1,7 @@
+{
+    "intro_file": "intro.txt",
+    "outro_file": "outro.txt",
+    "levels": [
+        "level1"
+    ]
+}
